@@ -1,0 +1,4 @@
+0.0 muerto
+6.0 enfermo
+36.0 normal
+45.3 fiebre
